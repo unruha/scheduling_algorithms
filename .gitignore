@@ -1,0 +1,13 @@
+#testing files
+book.txt
+pri-schedule.txt
+rr-schedule.txt
+schedule.txt
+
+#out files
+*.o
+sjf
+fcfs
+priority
+rr
+priority_rr
