@@ -47,7 +47,6 @@ bool comesBefore(char *a, char *b) { return strcmp(a, b) < 0; }
 // finds the task whose name comes first in dictionary
 Task* pickNextTask() 
 {
-
     // if list is empty, nothing to do
     if (!g_head)
         return NULL;
