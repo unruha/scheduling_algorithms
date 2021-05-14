@@ -95,7 +95,6 @@ void schedule()
         // head node for temporary list
         struct node* temp_head = NULL;
 
-        printf("Priority: %d\n", i);
         struct node* temp = lists[i];
         while (temp != NULL)
         {
